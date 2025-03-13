@@ -19,6 +19,7 @@ public class Student extends Person {
     public void setGPA(double gpa) {
         myGPA = gpa;
     }
+    @Override
     public String toString() {
         return super.toString() + ", student ID: " + myIDNum + ", GPA: " + myGPA;
     }

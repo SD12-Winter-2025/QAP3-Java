@@ -31,6 +31,7 @@ public class Person {
     public void setName(String name) {
         myName = name;
     }
+    @Override
     public String toString() {
         return myName + ", age: " + myAge + ", gender: " + myGender;
     }
