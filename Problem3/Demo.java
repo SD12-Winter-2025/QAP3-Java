@@ -1,3 +1,4 @@
+package Problem3;
 public class Demo {
     public static void main(String[] args) {
         // Create multiple examples of each shape

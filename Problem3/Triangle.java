@@ -1,3 +1,4 @@
+package Problem3;
 public class Triangle extends Shape {
     private double side1, side2, side3;
 
